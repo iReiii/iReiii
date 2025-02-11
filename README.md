@@ -15,5 +15,5 @@
 <h2>Social Account:</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/4lfly" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/4lflyy_" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iReiii&show_icons=true&locale=en" alt="iReiii" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iReiii&show_icons=true&locale=en&layout=compact" alt="iReiii" /></p>
+<p><img align="center" src="[https://github-readme-stats.vercel.app/api?username=iReiii&show_icons=true&locale=en](https://github-readme-stats.vercel.app/api?username=iReiii&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)" alt="iReiii" /></p>
+<p><img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=iReiii&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="iReiii" /></p>
