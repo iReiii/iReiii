@@ -49,20 +49,12 @@
 
 # 🎮 Fun Animations
 
-## 🟨 Pac-Man Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iReiii/iReiii/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iReiii/iReiii/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/iReiii/iReiii/output/pacman-contribution-graph.svg">
-</picture>
-
-## 🐍 GitHub Snake
-
 <img src="https://raw.githubusercontent.com/iReiii/iReiii/output/snake.svg" alt="Snake animation" />
 
 ---
 
-<img align="left" height="150" style="margin-right: 20px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGE1d3hoYTY4YzF0cjAwam9qb25vMXY5OXFlcmw2bTkwZnk2czcxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EPQfELrp20REY/giphy.gif" />
+<img align="left" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGE1d3hoYTY4YzF0cjAwam9qb25vMXY5OXFlcmw2bTkwZnk2czcxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EPQfELrp20REY/giphy.gif" />
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img align="left" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajU2dDU1dHpsdzR2Z2xzbG9oZ2ZpZHpocXh5bmthajI3cGdkNHJmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nl305lTLQJeAXZcX3R/giphy.gif" />
