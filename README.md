@@ -2,16 +2,12 @@
   <img src="img/banner.png" alt="Banner" />
 </p>
 
----
-
 ## 💫 About Me
 
 - 🌍 Bandung, West Java
 - 🧑‍🎓 I'm a Student
 - 💻 Passionate about **Web Development**
 - ✨ Currently learning **Next.js**, **ReactJS**, and **Cloud Technologies**
-
----
 
 ## 💻 Tech Stack
 
@@ -33,16 +29,12 @@
 
 </div>
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=iReiii&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=iReiii&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=iReiii&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=iReiii&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" />
 </div>
-
----
 
 ## 🌐 Social Media
 
@@ -55,11 +47,7 @@
   </a>
 </div>
 
----
-
 ## 🎮 Fun Animations
-
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGE1d3hoYTY4YzF0cjAwam9qb25vMXY5OXFlcmw2bTkwZnk2czcxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EPQfELrp20REY/giphy.gif" />
 
 ### 🟨 Pac-Man Contribution Graph
 
@@ -69,10 +57,8 @@
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/iReiii/iReiii/output/pacman-contribution-graph.svg">
 </picture>
 
----
-
 ### 🐍 GitHub Snake
 
 <img src="https://raw.githubusercontent.com/iReiii/iReiii/output/snake.svg" alt="Snake animation" />
 
----
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGE1d3hoYTY4YzF0cjAwam9qb25vMXY5OXFlcmw2bTkwZnk2czcxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EPQfELrp20REY/giphy.gif" />
