@@ -2,14 +2,14 @@
   <img src="img/banner.png" alt="Banner" />
 </p>
 
-## 💫 About Me
+# 💫 About Me
 
 - 🌍 Bandung, West Java
 - 🧑‍🎓 I'm a Student
 - 💻 Passionate about **Web Development**
 - ✨ Currently learning **Next.js**, **ReactJS**, and **Cloud Technologies**
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 <div align="left">
 
@@ -29,14 +29,14 @@
 
 </div>
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=iReiii&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=iReiii&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" />
 </div>
 
-## 🌐 Social Media
+# 🌐 Social Media
 
 <div align="left">
   <a href="https://www.instagram.com/4lflyy_">
@@ -47,9 +47,9 @@
   </a>
 </div>
 
-## 🎮 Fun Animations
+# 🎮 Fun Animations
 
-### 🟨 Pac-Man Contribution Graph
+## 🟨 Pac-Man Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iReiii/iReiii/output/pacman-contribution-graph-dark.svg">
@@ -57,8 +57,10 @@
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/iReiii/iReiii/output/pacman-contribution-graph.svg">
 </picture>
 
-### 🐍 GitHub Snake
+## 🐍 GitHub Snake
 
 <img src="https://raw.githubusercontent.com/iReiii/iReiii/output/snake.svg" alt="Snake animation" />
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGE1d3hoYTY4YzF0cjAwam9qb25vMXY5OXFlcmw2bTkwZnk2czcxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EPQfELrp20REY/giphy.gif" />
+---
+
+<img align="left" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGE1d3hoYTY4YzF0cjAwam9qb25vMXY5OXFlcmw2bTkwZnk2czcxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EPQfELrp20REY/giphy.gif" />
