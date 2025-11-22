@@ -25,7 +25,6 @@
 <img width="12" />
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />](https://www.docker.com/)
 <img width="12" />
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />](https://www.python.org/)
 
 </div>
 
