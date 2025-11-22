@@ -7,7 +7,7 @@
 - 🌍 Bandung, West Java
 - 🧑‍🎓 I'm a Student
 - 💻 Passionate about **Web Development**
-- ✨ Currently learning **Next.js**, **ReactJS**, and **Cloud Technologies**
+- ✨ Currently learning **Next.js**, **ReactJS**
 
 # 💻 Tech Stack
 
