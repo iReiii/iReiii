@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="img/image.webp" alt="Banner" />
-</p>
-
 # 💫 About Me
 
 - 🌍 Bandung, West Java
