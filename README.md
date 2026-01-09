@@ -24,17 +24,6 @@
 
 </div>
 
-# 🌐 Social Media
-
-<div align="left">
-  <a href="https://www.instagram.com/4lflyy_">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/4lfly">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
-  </a>
-</div>
-
 # 🎮 Fun Animations
 
 <img src="https://raw.githubusercontent.com/iReiii/iReiii/output/snake.svg" alt="Snake animation" />
